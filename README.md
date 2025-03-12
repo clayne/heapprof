@@ -1,7 +1,9 @@
 heapprof
 ========
 
-A 250 LOC heap profiler - easy to hack/port, works out of the box with Linux dynamically linked binaries
+A 250 LOC heap profiler - easy to hack/port, works out of the box with Linux dynamically linked binaries.
+
+For a description of how it works, see [How to make a heap profiler](https://yosefk.com/blog/how-to-make-a-heap-profiler.html).
 
 Build
 =====
